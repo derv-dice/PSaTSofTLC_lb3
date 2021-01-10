@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab_5</string>
+    <string name="const_add">Add</string>
+    <string name="const_del">Del</string>
+</resources>
